@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomCalculationService.cs](./CS/CustomCalculationServiceExample/CustomCalculationService.cs) (VB: [CustomCalculationService.vb](./VB/CustomCalculationServiceExample/CustomCalculationService.vb))
+* [Form1.cs](./CS/CustomCalculationServiceExample/Form1.cs) (VB: [Form1.vb](./VB/CustomCalculationServiceExample/Form1.vb))
+<!-- default file list end -->
 # How to implement a service to manage the process of worksheet cell calculation
 
 
